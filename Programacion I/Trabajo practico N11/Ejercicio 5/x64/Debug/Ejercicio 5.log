@@ -1,0 +1,3 @@
+﻿  Ejercicio 5.cpp
+C:\Users\benja\OneDrive\Escritorio\C++\Trabajo practico N11\Ejercicio 5\Ejercicio 5.cpp(6,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ejercicio 5.vcxproj -> C:\Users\benja\OneDrive\Escritorio\C++\Trabajo practico N11\x64\Debug\Ejercicio 5.exe
